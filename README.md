@@ -10,7 +10,7 @@ This is a repository for my task
 
   d. Code control
 
-2. the git command to clone a repository is?cd documeRespirant 
+2. the git command to clone a repository is?cd document 
 
   a. git init
 
